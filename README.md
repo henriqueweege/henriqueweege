@@ -2,9 +2,12 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/henriqueweege/)
 
 
-        I am a .NET developer with a strong passion for ongoing learning and a commitment to crafting efficient and reliable solutions.
+                I am a .NET developer with a strong passion for ongoing learning and a commitment to crafting 
+        efficient and reliable solutions.
 
-        I have expertise in Entity Framework, .NET Core, .NET Framework, XUnit, both relational and non-relational databases and AzureDevOps, being able to enhance the efficiency and reliability of the applications and CI/CD processes that I worked with.
+                I have expertise in Entity Framework, .NET Core, .NET Framework, XUnit, both relational and 
+        non-relational databases and AzureDevOps, being able to enhance the efficiency and reliability of 
+        the applications and CI/CD processes that I worked with.
     
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueweege&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
