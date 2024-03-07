@@ -8,11 +8,7 @@
                 I have expertise in Entity Framework, .NET Core, .NET Framework, XUnit, both relational and 
         non-relational databases and AzureDevOps, being able to enhance the efficiency and reliability of 
         the applications and CI/CD processes that I worked with.
-    
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueweege&hide=stars&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henriqueweege&theme=dark)
 #
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
